@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CalculodeNotas</string>
+
+    <!--MAIN PRINCIPAL-->
+    <!--titulos-->
+    <string name="materia">Materias</string>
+    <string name="por1">30%</string>
+    <string name="por2">30%</string>
+    <string name="por3">40%</string>
+    <!--materias-->
+    <string name="materia1">CALCULO</string>
+    <string name="materia2">FISICA</string>
+    <string name="materia3">PROGRAMACIÓN AVANZADA</string>
+    <!--Botones-->
+    <string name="Bpromedio">Ver Notas</string>
+    <string name="Bacercade">Acerca De</string>
+
+    <!--MAIN REPORTE NOTAS-->
+    <string name="Nfinal">Nota Final</string>
+    <string name="Rpromedio">Promedio Semestre</string>
+    <string name="Volver">Volver</string>
+
+    <!--ACERCA DE-->
+    <string name="desarrollador">Desarrollado por Johnny Acosta</string>
+    <string name="universidad">Universidad de Nariño</string>
+    <string name="b_regresar">Regresar</string>
+
+</resources>

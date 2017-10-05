@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate Score</string>
+    <string name="Bacercade">About</string>
+    <string name="Bpromedio">See score</string>
+    <string name="Nfinal">Final Score</string>
+    <string name="Rpromedio">Average</string>
+    <string name="Volver">Return</string>
+    <string name="b_regresar">Resturn</string>
+    <string name="desarrollador">\"Developed by Johnny Acosta\"</string>
+    <string name="materia">Subjects</string>
+    <string name="materia1">Calculate</string>
+    <string name="materia3">Advance Programation</string>
+    <string name="materia2">Physical</string>
+    <string name="por1">30%</string>
+    <string name="por2">30%</string>
+    <string name="por3">40%</string>
+    <string name="universidad">University of Nariño</string>
+</resources>
